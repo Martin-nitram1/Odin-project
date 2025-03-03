@@ -109,11 +109,25 @@ caption{
     display: flex;
     background-color: #3882f6;
     justify-content: center;
-    gap: 20px;
+    gap: 60px;
     width: 60%;
     align-items: center;
-    
+    margin: 50px 150px;
+    border-radius: 5px;;
+    padding: 40px 55px;
+
     
 }
-
-
+.right button{
+    padding: 5px 20px;
+    width: 100px;
+    border-radius: 5px;
+    font: #e5e7eb;
+    background-color: #3882f6;
+    border: 2px solid #e5e7eb;
+    color: #e5e7eb
+}
+.footer .left{
+    max-width: 300px;
+     
+}
